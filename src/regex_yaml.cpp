@@ -1,3 +1,4 @@
+#include "pch.h"
 #include "regex_yaml.h"
 
 namespace YAML {

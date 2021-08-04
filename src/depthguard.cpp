@@ -1,3 +1,4 @@
+#include "pch.h"
 #include "yaml-cpp/depthguard.h"
 
 namespace YAML {

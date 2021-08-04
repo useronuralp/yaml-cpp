@@ -1,3 +1,4 @@
+#include "pch.h"
 #include "yaml-cpp/exceptions.h"
 #include "yaml-cpp/noexcept.h"
 

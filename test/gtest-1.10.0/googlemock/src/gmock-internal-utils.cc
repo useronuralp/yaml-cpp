@@ -33,7 +33,7 @@
 // This file defines some utilities useful for implementing Google
 // Mock.  They are subject to change without notice, so please DO NOT
 // USE THEM IN USER CODE.
-
+#include "pch.h"
 #include "gmock/internal/gmock-internal-utils.h"
 
 #include <ctype.h>

@@ -31,7 +31,7 @@
 // Google Mock - a framework for writing C++ mock classes.
 //
 // This file implements cardinalities.
-
+#include "pch.h"
 #include "gmock/gmock-cardinalities.h"
 
 #include <limits.h>

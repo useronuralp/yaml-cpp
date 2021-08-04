@@ -1,3 +1,4 @@
+#include "pch.h"
 #include "yaml-cpp/node/emit.h"
 #include "nodeevents.h"
 #include "yaml-cpp/emitfromevents.h"
