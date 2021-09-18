@@ -1,4 +1,3 @@
-#include "pch.h"
 #include "yaml-cpp/null.h"
 
 namespace YAML {

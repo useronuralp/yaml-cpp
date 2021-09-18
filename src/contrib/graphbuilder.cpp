@@ -1,4 +1,3 @@
-#include "pch.h"
 #include "graphbuilderadapter.h"
 
 #include "yaml-cpp/parser.h"  // IWYU pragma: keep

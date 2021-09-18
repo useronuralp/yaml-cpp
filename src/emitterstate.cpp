@@ -1,4 +1,3 @@
-#include "pch.h"
 #include <limits>
 
 #include "emitterstate.h"

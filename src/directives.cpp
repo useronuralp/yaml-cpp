@@ -1,4 +1,3 @@
-#include "pch.h"
 #include "directives.h"
 
 namespace YAML {

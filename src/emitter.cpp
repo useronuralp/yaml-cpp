@@ -1,4 +1,3 @@
-#include "pch.h"
 #include <sstream>
 
 #include "emitterutils.h"

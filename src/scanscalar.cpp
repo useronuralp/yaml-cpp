@@ -1,4 +1,3 @@
-#include "pch.h"
 #include "scanscalar.h"
 
 #include <algorithm>
